@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=616FF5&height=120&section=header&text=VitorAugusto&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+Vitor+Augusto;I'm+17+years+old;I+am+from+Brasil,+SP;I+want+study+systems+development;+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME'S+Vitor+Augusto;I'm+17+years+old;I+am+from+Brasil,+SP;I+am+studying+system+development;+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorAugustoprg&show_icons=true&count_private=true&hide_border=true&title_color=616FF5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Augusto github stats" /> 
