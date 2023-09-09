@@ -7,26 +7,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorAugustoprg&layout=compact&hide_border=true&title_color=616FF5&text_color=616FF5&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorAugustoprg&theme=gotham&hide_border=true&area=true)
-<div class="js-calendar-graph mx-md-2 mx-3 d-flex flex-column flex-items-end flex-xl-items-center overflow-hidden pt-1 is-graph-loading graph-canvas ContributionCalendar height-full text-center" data-graph-url="/users/VitorAugustoprg/contributions" data-url="/VitorAugustoprg" data-from="2022-01-23 00:00:00 UTC" data-to="2023-01-27 23:59:59 UTC" data-org="" style="transition: height 0.3s ease 0s;">
+
         
 
 
   <svg width="823" height="128" class="js-calendar-graph-svg">
     <g transform="translate(15, 20)" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:108297780,&quot;target&quot;:&quot;CONTRIBUTION_CALENDAR_SQUARE&quot;,&quot;user_id&quot;:108297780,&quot;originating_url&quot;:&quot;https://github.com/VitorAugustoprg&quot;}}" data-hydro-click-hmac="445066e9029e7f700a79c26a3d654ca31b809d99e9b141ee98ba3406056f13e4">
 
-       
- 
-
-
-    
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vitor Augusto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
 <a href="https://www.instagram.com/_vitoroliveira16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
+<div align="center">  
+<a href="https://www.instagram.com/_vitoroliveira16/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
 ### Main skills:
